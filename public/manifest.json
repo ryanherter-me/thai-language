@@ -1,0 +1,20 @@
+{
+  "short_name": "Thai-language",
+  "name": "Thai-language",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "https://cdn.glitch.com/3d9cf857-e3a8-4a3f-a564-0f1e9f5894ce%2FThaiFlag192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.glitch.com/3d9cf857-e3a8-4a3f-a564-0f1e9f5894ce%2FThaiFlag512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "/"
+}
