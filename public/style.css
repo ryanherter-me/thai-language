@@ -1,0 +1,55 @@
+
+
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  background-color:black;
+  text-align:center;
+  font-size: 2em;
+  color: gold;
+    
+
+
+}
+h1 {
+  font-style: italic;
+}
+h2 {
+  
+}
+p {
+  
+.audio {
+  font-size:0em;
+  color:gold;  
+}
+
+
+
+}
+/* unvisited link */
+a:link {
+  color: #EEE8AA;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #EEE8AA;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #EEE8AA;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: #EEE8AA;
+  text-decoration: none;
+}
+
+
+  
